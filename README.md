@@ -23,7 +23,8 @@ Gaussian distribution.
 
 # Extra
 
-Draw a graph that shows the distribution.
+Write `draw_gaussian_distribution_graph` function,
+that draws a graph that shows the distribution.
 
 `matplotlib` is relevant library for this purpose.
 
@@ -32,3 +33,5 @@ Draw a graph that shows the distribution.
 - [matplotlib, Axis](https://pyprog.pro/mpl/mpl_axis_ticks.html)
 
 You should get graph like this:
+
+![gaussian](https://user-images.githubusercontent.com/80070761/152684914-6db1fcec-5c15-447f-bfce-1188eb0bb76c.png)
