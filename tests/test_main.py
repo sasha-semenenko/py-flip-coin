@@ -117,7 +117,7 @@ def test_random_choice_when_head_and_tail(choice_mock, n, expected):
     ],
 )
 @mock.patch('random.choice')
-def test_random_choice_when_heads_and_tails(choice_mock, n, expected):
+def test_random_choice_when_eagle_and_tails(choice_mock, n, expected):
     code = inspect.getsource(flip_coin)
     parsed_code = ast.parse(code)
 
