@@ -28,9 +28,8 @@ that draws a graph that shows the distribution.
 
 `matplotlib` is relevant library for this purpose.
 
-- [matplotlib, Diagrams](https://eax.me/python-matplotlib/)
-- [matplotlib, Graphs](https://devpractice.ru/matplotlib-lesson-4-1-viz-linear-chart/#p1)
-- [matplotlib, Axis](https://pyprog.pro/mpl/mpl_axis_ticks.html)
+- [matplotlib, Plotting](https://www.w3schools.com/python/matplotlib_plotting.asp)
+- [matplotlib, Labels](https://www.w3schools.com/python/matplotlib_labels.asp)
 
 You should get graph like this:
 
